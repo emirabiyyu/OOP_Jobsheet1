@@ -31,14 +31,14 @@ Objek: Elektronik, Alat Masak, Kendaraan (Mobil, Motor)
 
 
 b. Lakukan pengamatan terhadap 4 objek tersebut untuk menentukan atribut dan methodnya!
-- Kendaraan
-  Atribut: merk, tipe, nomesin, kecepatan, transmisi, kapasitas, jenis motor, sistem rem
+- Kendaraan <br>
+  Atribut: merk, tipe, nomesin, kecepatan, transmisi, kapasitas, jenis motor, sistem rem <br>
   Method: setMerek, setTipe, setNomesin, tambahKecepatan, setTransmisi, setKapasitas, setJM, sistemRem
 - Elektronik
-  Atribut: nama, model, daya listrik
+  Atribut: nama, model, daya listrik <br>
   Method: setNama, setModel, dayalistrik
-- Alat Masak
-  Atribut: nama, fungsi, bahan
+- Alat Masak <br>
+  Atribut: nama, fungsi, bahan <br>
   Method: setNama, setFungsi, setBahan
 
 c. Berdasarkan 4 buah objek tersebut, buat class nya dalam Bahasa pemrograman Java! <br>
